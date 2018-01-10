@@ -4,7 +4,7 @@ device: {enter your device name here}
 language: c
 ---
 
-Run a simple C sample on {enter your device name here} device running {enter the OS name running on device}
+Run a simple C sample on {XT3815} device running {enter the OS name running on device}
 ===
 ---
 
